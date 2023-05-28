@@ -1,0 +1,20 @@
+body {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  input {
+    margin: 5px;
+  }
+  div {
+    display: flex;
+  }
+  
+  button {
+    display: flex;
+  }
+  
+  label {
+    display: flex;
+  }
+  
